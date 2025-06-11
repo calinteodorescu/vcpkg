@@ -16,6 +16,10 @@
     "boost-core",
     "boost-iostreams",
     "boost-program-options",
-    "boost-random"
+    "boost-random",
+    "boost-regex",
+    "boost-system",
+    "boost-thread",
+    "boost-url"
   ]
 }
