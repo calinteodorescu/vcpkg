@@ -4,6 +4,7 @@
   "builtin-baseline": "f9d77ef46dfe708b51db358acdea2b97615d5193",
   "dependencies": [
     "lz4",
-    "expat"
+    "expat",
+    "cpprestsdk"
   ]
 }
