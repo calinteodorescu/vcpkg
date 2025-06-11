@@ -5,6 +5,16 @@
   "dependencies": [
     "lz4",
     "expat",
-    "cpprestsdk"
+    "cpprestsdk",
+    "snappy",
+    "openssl",
+    "thrift",
+    "lua",
+    "pdcurses",
+    "boost-context",
+    "boost-coroutine2",
+    "boost",
+    "boost-core",
+    "boost-iostreams"
   ]
 }
