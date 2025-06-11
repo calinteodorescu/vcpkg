@@ -13,8 +13,9 @@
     "pdcurses",
     "boost-context",
     "boost-coroutine2",
-    "boost",
     "boost-core",
-    "boost-iostreams"
+    "boost-iostreams",
+    "boost-program-options",
+    "boost-random"
   ]
 }
