@@ -20,6 +20,7 @@
     "boost-regex",
     "boost-system",
     "boost-thread",
-    "boost-url"
+    "boost-url",
+    "icu"
   ]
 }
